@@ -1,0 +1,3 @@
+rootProject.name = 'reactnativeCRM'
+
+include ':app'
